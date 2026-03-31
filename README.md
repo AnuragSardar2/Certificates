@@ -12,7 +12,7 @@ I am an Electronics & Telecommunication (ENTC) graduate with a strong interest i
 - **Machine Learning Certification** – Coursera  
   *Skills:* Regression, Classification, Model Evaluation  
 
-- **Data Science Certification** – [Platform Name]  
+- **Data Science Certification** – Oracle  
   *Skills:* Data Analysis, Visualization, Statistics  
 
 ---
@@ -27,10 +27,10 @@ I am an Electronics & Telecommunication (ENTC) graduate with a strong interest i
 
 ## 💻 Programming & Tools
 
-- **Python Certification** – [Platform Name]  
+- **Python Certification** – Great Learning  
   *Skills:* Data Structures, OOP, Libraries  
 
-- **SQL Certification** – [Platform Name]  
+- **SQL Certification** – Great Learning  
   *Skills:* Database Management, Queries, Joins  
 
 ---
