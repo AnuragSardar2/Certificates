@@ -9,7 +9,7 @@ I am an Electronics & Telecommunication (ENTC) graduate with a strong interest i
 
 ## 🧠 Data Science & Machine Learning
 
-- **Machine Learning Certification** – Coursera  
+- **Python for Data Analysis** – Great Learning  
   *Skills:* Regression, Classification, Model Evaluation  
 
 - **Data Science Certification** – Oracle  
